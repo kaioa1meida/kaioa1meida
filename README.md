@@ -11,8 +11,8 @@ object **KaioA1meida** {
 
  val name = "Kaio Almeida"
  val occupation = "Back-end Developer"
- val acknowledgements = "Ciência da Computação"
- val aboutMe = "Sou um jovem entusiasta da tecnologia e apaixonado pelo desenvolvimento de sistemas"
+ val graduation = "Computer Sciece"
+ val aboutMe = "I am a young technology enthusiast and passionate about systems development"
  val languages = listOf("Java", "Kotlin", "Python", "Javascript") 
 
 }
