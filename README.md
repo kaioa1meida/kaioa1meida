@@ -37,7 +37,7 @@ object **KaioA1meida** {
 ## :trophy: **GitHub Stats**
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaioa1meida&show_icons=true&theme=dark?username=kaioa1meida&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Kaio Almeida github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaioa1meida&show_icons=true&theme=dark?username=kaioa1meida&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Kaio Almeida github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioa1meida&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
 </div>
 
