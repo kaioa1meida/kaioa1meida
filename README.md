@@ -4,7 +4,7 @@
 
 ## <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" height="210" src="https://raw.githubusercontent.com/kaioa1meida/utils/master/9c8cdbb2bd7b637edd5b3a767b74153a-_2_-_online-video-cutter.com_.gif?token=GHSAT0AAAAAACS3UQPLP4JG5H6CD7Z65AOAZSVJLNQ" />
+<img align="right" height="215" src="https://raw.githubusercontent.com/kaioa1meida/utils/master/9c8cdbb2bd7b637edd5b3a767b74153a-_2_-_online-video-cutter.com_.gif?token=GHSAT0AAAAAACS3UQPLP4JG5H6CD7Z65AOAZSVJLNQ" />
 
 ```kotlin
 object **KaioA1meida** {
@@ -12,7 +12,7 @@ object **KaioA1meida** {
  val name = "Kaio Almeida"
  val occupation = "Back-end Developer"
  val graduation = "BS - Computer Science"
- val aboutMe = "I am a young technology enthusiast and passionate about systems development"
+ val aboutMe = "I am a young technology enthusiast, passionate about systems development"
  val languages = listOf("Java", "Kotlin", "Python")
  val currentlyLearning = listOf("Mockito", "REST Assured", "JWT", "HATEOAS")
 
