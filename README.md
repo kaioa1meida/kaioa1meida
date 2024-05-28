@@ -4,7 +4,7 @@
 
 ## <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="223" height="223" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" />
+<img align="right" width="223" src="https://tenor.com/pt-BR/view/tux-linux-penguin-computer-typing-busy-gif-13909126" />
 
 ```kotlin
 object **KaioA1meida** {
