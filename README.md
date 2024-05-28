@@ -4,7 +4,7 @@
 
 ## <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/kaioa1meida/utils/master/9c8cdbb2bd7b637edd5b3a767b74153a-_2_-_online-video-cutter.com_.gif?token=GHSAT0AAAAAACS3UQPLP4JG5H6CD7Z65AOAZSVJLNQ" />
+<img align="right" height="210" src="https://raw.githubusercontent.com/kaioa1meida/utils/master/9c8cdbb2bd7b637edd5b3a767b74153a-_2_-_online-video-cutter.com_.gif?token=GHSAT0AAAAAACS3UQPLP4JG5H6CD7Z65AOAZSVJLNQ" />
 
 ```kotlin
 object **KaioA1meida** {
