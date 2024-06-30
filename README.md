@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Kaio;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
-## <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
+## <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
 <img align="right" height="203" src="./duke.gif" />
 
@@ -19,7 +19,7 @@ object **KaioA1meida** {
 }
 ```
 
-## :man_technologist: **Tecnologias:**  
+## :man_technologist: **Tecnologies:**  
 
 <div align="center" style="display: inline_block"><br>     
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
