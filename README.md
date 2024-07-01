@@ -22,17 +22,18 @@ object **KaioA1meida** {
 ## :man_technologist: **Tecnologies:**  
 
 <div align="center" style="display: inline_block"><br>     
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Slq" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=f5f5f5">
-  <img align="center" alt="sql2" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=f5f5f5">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=f5f5f5">
+  <img align="center" alt="Postgre" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=f5f5f5">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=f5f5f5">
   <img align="center" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"style="filter: invert(1);">
+  <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+          
 </div>
 
 ## :trophy: **GitHub Stats**
