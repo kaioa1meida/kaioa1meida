@@ -4,7 +4,7 @@
 
 ## <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
-<img align="right" src="./duke.gif" style="width:100%; max-width: 203px;" />
+<img align="right" height="203" src="./duke.gif" />
 
 ```kotlin
 object **KaioA1meida** {
