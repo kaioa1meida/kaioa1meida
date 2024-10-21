@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Kaio;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
-## <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
+## :octocat: **About Me:**
 
 <img align="right" height="203" src="./duke.gif" />
 
