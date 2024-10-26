@@ -14,7 +14,7 @@ object **KaioA1meida** {
  val graduation = "BS - Computer Science"
  val aboutMe = "I am a young technology enthusiast"
  val languages = listOf("Java", "Kotlin", "Python")
- val currentlyLearning = listOf("AWS", "Hardware", "IoT")
+ val currentlyLearning = listOf("Hardware", "IoT, Mathematical Structures")
 
 }
 ```
