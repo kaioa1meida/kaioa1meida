@@ -7,14 +7,14 @@
 <img align="right" height="203" src="./duke.gif" />
 
 ```kotlin
-object **KaioA1meida** {
+object KaioA1meida {
 
  val name = "Kaio Almeida"
  val occupation = "Back-end Developer"
  val graduation = "BS - Computer Science"
  val aboutMe = "I am a young technology enthusiast"
  val languages = listOf("Java", "Kotlin", "Python")
- val currentlyLearning = listOf("Hardware", "IoT, Mathematical Structures")
+ val currentlyLearning = listOf("Hardware", "IoT", "Mathematical Structures")
 
 }
 ```
