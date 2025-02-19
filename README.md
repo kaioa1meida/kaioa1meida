@@ -12,7 +12,7 @@ object KaioA1meida {
  val name = "Kaio Almeida"
  val occupation = "Back-end Developer"
  val graduation = "BS - Computer Science"
- val aboutMe = "I am a young technology enthusiast"
+ val aboutMe = "I am a professional bug creator and occasional fixer.."
  val languages = listOf("Java", "Kotlin", "Python")
  val currentlyLearning = listOf("Hardware", "IoT", "Mathematical Structures")
 
