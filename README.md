@@ -1,7 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Kaio;Welcome+to+my+GitHub+Profile+:%29)](https://git.io/typing-svg)
-
 ## :octocat: **About Me:**
 
 <img align="right" height="203" src="./duke.gif" />
@@ -14,27 +10,10 @@ object KaioA1meida {
  val graduation = "BS - Computer Science"
  val aboutMe = "I am a professional bug creator and occasional fixer.."
  val languages = listOf("Java", "Kotlin", "Python")
- val currentlyLearning = listOf("Hardware", "IoT", "Mathematical Structures")
+ val currentlyLearning = listOf("Datadog", "Architectures", "LLM's")
 
 }
 ```
-
-## :man_technologist: **Tecnologies:**  
-
-<div align="center" style="display: inline_block"><br>     
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=f5f5f5">
-  <img align="center" alt="Postgre" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=f5f5f5">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="html" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=f5f5f5">
-  <img align="center" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-          
-</div>
 
 ## :trophy: **GitHub Stats**
 
