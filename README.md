@@ -10,7 +10,7 @@ object KaioA1meida {
  val graduation = "BS - Computer Science"
  val aboutMe = "I'm a professional bug creator and occasional fixer.."
  val languages = listOf("Java", "Kotlin", "Python")
- val currentlyLearning = listOf("Datadog", "Architectures", "LLM's")
+ val currentlyLearning = listOf("GCP", "GraphQL", "ML")
 
 }
 ```
